@@ -7,3 +7,5 @@ To upload a custom model:
 - Run "gltf-pipeline -i <"modelName.gltf"> -o <"newModelName.gltf"> -d" on your model's directory to convert it to gltf 2.0
 - Go to https://github.com/pmndrs/gltfjsx to turn your "newModelName.gltf" into a JSX component.
 - Still on your model's directory run "npx gltfjsx newModelName.gltf"
+
+Check out the final result at https://diogofpmonteiro.github.io/3D-React/
