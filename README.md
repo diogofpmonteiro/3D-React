@@ -8,4 +8,4 @@ To upload a custom model:
 - Go to https://github.com/pmndrs/gltfjsx to turn your "newModelName.gltf" into a JSX component.
 - Still on your model's directory run "npx gltfjsx newModelName.gltf"
 
-Check out the final result at https://diogofpmonteiro.github.io/3D-React/
+Check out the final result at https://3jsworld.netlify.app
